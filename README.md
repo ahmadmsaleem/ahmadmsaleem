@@ -7,7 +7,7 @@ In this repository, you'll find a showcase of my work, including the **SchemaIns
 <div align="center">
 
 ## 🌐 Contacts 🌐
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/670375448508629012)                    
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/670375448508629012)                    
 [sleemamf@gmail.com](sleemamf@gmail.com)
 
 ## 💻 Tech Stack 💻
