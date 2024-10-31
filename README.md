@@ -2,9 +2,9 @@
 
 Hi, I'm **Ahmad Saleem**, a data enthusiast specializing in data management and analytics. My focus is on transforming complex data into actionable insights.
 
-In this repository, you'll find a showcase of my work, including the **SchemaInsight** project—a Java application designed for importing and analyzing CSV files to enhance data structure analysis. You can check it out [here](https://github.com/ahmadmsaleem/SchemaInsight). I thrive in agile environments and enjoy tackling challenges with innovative solutions.
+In this repository, you'll find a showcase of my work, including the **SchemaInsight** project—a Java application designed for importing and analyzing CSV files to enhance data structure analysis. You can check it out [here](https://github.com/ahmadmsaleem/SchemaInsght). I thrive in agile environments and enjoy tackling challenges with innovative solutions.
 
-Feel free to explore my projects and reach out via email at [sleemamf@gmail.com](mailto:sleemamf@gmail.com).
+Feel free to explore my projects and reach out via email at [sleemamf@gmail.com](sleemamf@gmail.com).
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/670375448508629012) 
