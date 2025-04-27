@@ -1,7 +1,4 @@
-# Welcome to My Bug Wonderland—Every Bug is a Feature!
-
-Hi, I'm **Ahmad Saleem**, a data enthusiast specializing in data management and analytics. My focus is on transforming data into actionable insights.
-
+# Hi GitHub
 
 <div align="center">
 
